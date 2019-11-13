@@ -1,0 +1,1 @@
+![](../images/vs&#32;code&#32;all&#32;the&#32;things.jpg) <!-- .element class="plain" height="70%" width="70%" -->
